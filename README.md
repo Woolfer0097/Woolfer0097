@@ -1,4 +1,3 @@
-![Резюме](https://sun9-76.userapi.com/impg/SIALo50CQwpmT5TrTLsb39PgRiZVHoHUO-kWAg/czNlKYqSJ-0.jpg?size=1620x2160&quality=95&sign=20d2704bee8e78014ed2fced5fc7982b&type=album)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%3F4CD817&lines=Innopolis+university+student)](https://git.io/typing-svg)
 
 # My knowledges
