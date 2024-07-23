@@ -1,5 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%3F4CD817&lines=Innopolis+university+student)](https://git.io/typing-svg)
 
+I have real experience with FastApi framework on Python, while developing this project ![Web-application](https://competency.jobster.uz)
+Open-source code of this project: ![code and my contributions](https://gitlab.pg.innopolis.university/d.tskhe/swp-project/-/graphs/main?ref_type=heads)
+
 # My knowledges
 
 # I know **sematics** and syntax of these languages
