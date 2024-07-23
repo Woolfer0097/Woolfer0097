@@ -1,8 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%3F4CD817&lines=Innopolis+university+student)](https://git.io/typing-svg)
 
-### I have real experience with FastApi framework on Python, while developing this project ![Web-application](https://competency.jobster.uz)
+### I have real experience with FastApi framework on Python, while developing this project [Web-application](https://competency.jobster.uz)
 
-#### Open-source code of this project: ![code and my contributions](https://gitlab.pg.innopolis.university/d.tskhe/swp-project/-/graphs/main?ref_type=heads)
+#### Open-source code of this project: [code and my contributions](https://gitlab.pg.innopolis.university/d.tskhe/swp-project/-/graphs/main?ref_type=heads)
+##### In this project I was responsible for the whole Backend part. I made API, postgres database connection. Also I was responsible for CI/CD on gitlab AND for DevOps: I containerized web, telegram bot and database, then push working images to docker hub.
 
 # My knowledges
 
