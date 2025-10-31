@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4CD817&lines=Golang+Backend+%26+DevOps+Engineer;Innopolis+University+Student)](https://git.io/typing-svg)
 
 ### Hello there! I'm a Golang Backend & DevOps Engineer
-You can call me Danila,
+You can call me Danila
+
 Most of all, I build backend services, automate infrastructure, and optimize developer workflows.  
 
 Pragmatic, fast-learning, and always digging into how tools work under the hood.
@@ -23,6 +24,7 @@ I'm passinate about building architecture of highload services.
 - Set up developer VPN + access to critical infra
 - Built monitoring stack: Grafana + Prometheus + Loki + exporters
 - Wrote Go tool (Cobra) for DB seeding + crawling + audio generation
+- Build telegram bot with synchronization
 
 Repo: https://github.com/FluentlyOrg/Fluently-fork
 
