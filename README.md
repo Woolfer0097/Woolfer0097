@@ -13,7 +13,7 @@ I'm passinate about building architecture of highload services.
 
 ### Featured Experience
 
-#### Fluently — Full-stack Language Learning Ecosystem *(Team Lead, Backend & DevOPS)*
+#### 🎓 Fluently — Full-stack Language Learning Ecosystem *(Team Lead, Backend & DevOPS)*
 **Go + FastAPI + Postgres + Kubernetes + CI/CD**
 
 > iOS/Android apps, SPA, Telegram bot, browser extension — multi-service architecture.
@@ -30,14 +30,14 @@ Repo: https://github.com/FluentlyOrg/Fluently-fork
 
 ---
 
-#### 🔹 Internship @ OMP *("Аврора")*
+#### 📱 Internship @ OMP *("Аврора")*
 - Worked on enterprise open-source fork  
 - Wrote plugin to automate vulnerability data collection  
 - Used Bash, Python, MongoDB  
 
 ---
 
-### 🧩 Selected Projects
+### 💡 Other projects
 
 | Project | Stack | Highlights | Link |
 |--------|--------|-------------|------|
@@ -47,7 +47,7 @@ Repo: https://github.com/FluentlyOrg/Fluently-fork
 
 ---
 
-### 🛠 Tech Skills
+### Tech Skills
 
 **Languages:** Go, Python, Bash, SQL  
 **Backend:** Gin, Chi, FastAPI, gRPC, WebSockets  
@@ -57,14 +57,14 @@ Repo: https://github.com/FluentlyOrg/Fluently-fork
 
 ---
 
-### 📍 Current Focus
+### 🤔 Current Focus
 - Advanced Go patterns & concurrency
 - Microservices + observability
 - Kubernetes & production-grade DevOps
 
 ---
 
-### 📫 Contact
+### 📞 Contact
 **Telegram:** @Woolfer0097
 **Email:** d.kochegarov@innopolis.university 
 
