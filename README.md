@@ -10,7 +10,7 @@ You can call me Danila
 - **Backend:** deep knowledge of Networks and OS concepts. Also not a beginner at system design
 - **Databases:** Postgres, MongoDB, Redis  
 - **DevOps & Cloud:** Docker, Kubernetes, Ansible, Nginx, ELK stack
-- **Tools:** Git, Kafka, Keycloak, LDAP, S3-compatible storage
+- **Other:** Git, Kafka, Keycloak, LDAP, S3-compatible storage
 
 ---
 
